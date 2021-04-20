@@ -1,3 +1,3 @@
 - 👋 Hi, I am Nguyen from VietNam
-- 👀 I’m currently working at Kanagawa, Japan as an system engineer
+- 👀 I’m currently working at Kanagawa, Japan as a System Engineer
 - 🌱 I’m currently learning Java and C#
